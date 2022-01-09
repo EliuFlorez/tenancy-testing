@@ -1,0 +1,21 @@
+{
+    "name": "eliuflorez/tenancy-testing",
+    "description": "Creating multi tenant saas from your Laravel app with ease",
+    "keywords": ["laravel", "multi-tenant", "saas", "tenancy", "aws", "gce"],
+    "license": "MIT",
+    "require": {
+        "eliuflorez/tenancy-framework": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tenancy\\Testing\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Eliu Florez",
+            "email": "eliufz@gmail.com",
+            "homepage": "https://github.com/EliuFlorez"
+        }
+    ]
+}
